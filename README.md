@@ -15,3 +15,6 @@ using Watson Conversation and Visual Recognition the home device could be turned
 - [Please follow this instructions to create a simple Android app with Watson Sentiment Anlysis/AlchemyAPI](https://github.com/blumareks/2016wdc/tree/master/SentimentSensitiveApp)
 - [Shall you want to expand the previous app with Watson Speech-to-text service - this is the instructions for another 15 minutes](https://github.com/blumareks/2016wdc/tree/master/SpeechToText)
 - [And there is a blogpost on Text To Speech](http://ibm.biz/espresso-lab-tts)
+
+
+Please follow me on Twitter: @blumareks, and check my blog on [blumareks.blogspot.com](http://blumareks.blogspot.com)
