@@ -10,3 +10,8 @@ using Watson Conversation and Visual Recognition the home device could be turned
 - LAB 1 is about connecting a simulated sensor and a real one to IBM Watson IoT Platform and pushing data from a sensor to IBM Bluemix.
 - LAB 2 is dedicated to dynamic invocation of the communication between IBM Bluemix to Raspberry Pi and invoke an action (taking a picture), returning a message (and uploading a picture to IBM Bluemix for furhter IBM Watson Visual Recognition Analysis).
 - LAB 3 presents a further step of adding an app in Swift running on a mobile device to manage the Raspberry Pi over IBM Bluemix with help of previous steps and IBM Watson IoT Platform setup. In addition we would connect Raspberry Pi to STEM mobile robot platform - iRobot Create2. An additional flow would manage communication over Serial port - and the 2 initial commands would be issued to iRobot Create platform from a mobile device: 'Beep' and 'Forced Dock'.
+
+
+- [Please follow this instructions to create a simple Android app with Watson Sentiment Anlysis/AlchemyAPI](https://github.com/blumareks/2016wdc/tree/master/SentimentSensitiveApp)
+- [Shall you want to expand the previous app with Watson Speech-to-text service - this is the instructions for another 15 minutes](https://github.com/blumareks/2016wdc/tree/master/SpeechToText)
+- [And there is a blogpost on Text To Speech](http://ibm.biz/espresso-lab-tts)
